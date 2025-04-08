@@ -1,7 +1,7 @@
 # Proportional-Controller-for-a-Water-tank
 A demonstration of fundamental Proportional Controller using Ladder Diagram (LAD) in Siemens TIA Portal for S7 PLCs.
 
-📁 Project Contents This repository contains:
+# 📁 Project Contents This repository contains:
 
 1.Proportional-Controller-for-a-Water-tank_S7_LAD (TIA Portal Project)
 
@@ -29,10 +29,6 @@ A demonstration of fundamental Proportional Controller using Ladder Diagram (LAD
      Siemens TIA Portal (V16 or later).
 
      Factory I/O (optional, for 3D simulation). 
+
 Hardware:
-
-
-
-
-
-Compatible S7 PLC (e.g., S7-1200/S7-1500) or PLCSIM Advanced for virtual testing.
+     Compatible S7 PLC (e.g., S7-1200/S7-1500) or PLCSIM Advanced for virtual testing.
