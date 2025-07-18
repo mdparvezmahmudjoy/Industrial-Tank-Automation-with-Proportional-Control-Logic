@@ -1,4 +1,4 @@
-# Proportional-Controller-for-a-Water-tank
+#Tank Automation with Proportional Control Logick
 A demonstration of fundamental Proportional Controller using Ladder Diagram (LAD) in Siemens TIA Portal for S7 PLCs.
 
 # 📁 Project Contents This repository contains:
